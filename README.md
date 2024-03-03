@@ -1,1 +1,1 @@
-# PEA-ATSP-BranchAndBound
+# Implementation of the B&B algorithm

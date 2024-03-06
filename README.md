@@ -1,1 +1,1 @@
-# Implementation of the B&B algorithm
+# Implementation of the B&B algorithm for TSP problem
